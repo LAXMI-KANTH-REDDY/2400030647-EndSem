@@ -1,0 +1,27 @@
+ cd "c:\Users\LAXMIKANTH REDDY M\OneDrive\Desktop\StudentfeedbackForm" ; git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 1.05 KiB | 1.05 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/LAXMI-KANTH-REDDY/2400030647-EndSem.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\LAXMIKANTH REDDY M\OneDrive\Desktop\StudentfeedbackForm> cd c:\ ; git clone https://github.com/LAXMI-KANTH-REDDY/2400030647-EndSem.git
+Cloning into '2400030647-EndSem'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+PS C:\> move c:\2400030647-EndSem "c:\Users\LAXMIKANTH REDDY M\Desktop\2400030647-EndSem"
+PS C:\> ls "c:\Users\LAXMIKANTH REDDY M\Desktop\2400030647-EndSem"
+
+
+    Directory: C:\Users\LAXMIKANTH REDDY M\Desktop\2400030647-EndSem
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        28-11-2025     18:41           2507 feedback.html
